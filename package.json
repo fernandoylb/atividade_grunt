@@ -1,0 +1,29 @@
+{
+  "name": "contador-grunt",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000t\u0000i\u0000v\u0000i\u0000d\u0000a\u0000d\u0000e\u0000_\u0000g\u0000r\u0000u\u0000n\u0000t\u0000\r\u0000 \u0000",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "grunt": "grunt",
+    "build": "grunt build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandoylb/atividade_grunt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fernandoylb/atividade_grunt/issues"
+  },
+  "homepage": "https://github.com/fernandoylb/atividade_grunt#readme",
+  "devDependencies": {
+    "grunt": "^1.6.1",
+    "grunt-contrib-less": "^3.0.0",
+    "grunt-contrib-uglify": "^5.2.2",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}
